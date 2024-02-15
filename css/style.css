@@ -1,0 +1,26 @@
+*{
+    background-color: antiquewhite;
+    text-decoration: none;
+    display: flex;
+}
+#Contenedor{
+    border: 3px solid black;
+    border-radius: 2px;
+    margin: 2px auto;
+    padding: 2px auto;
+}
+button{
+    border: 2px solid transparent;
+    padding: 2rem;
+    cursor: pointer;
+
+}
+button:hover{
+    border-color: antiquewhite;
+    background-color: black;
+    color: antiquewhite;
+}
+h1{
+    font-size: 1rem;
+    color: brown;
+}
